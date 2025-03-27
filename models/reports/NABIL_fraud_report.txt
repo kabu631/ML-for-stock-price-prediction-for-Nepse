@@ -1,0 +1,27 @@
+FRAUD ANALYSIS REPORT FOR NABIL
+Generated on: 2025-03-26
+
+SUMMARY:
+Total days analyzed: 41
+Days with significant anomalies: 0 (0.0%)
+Average anomaly score: 0.0293
+
+TOP ANOMALOUS DATES:
+1. 2024-08-05 - Score: 0.2500
+2. 2024-08-13 - Score: 0.2000
+3. 2024-08-01 - Score: 0.2000
+4. 2024-07-05 - Score: 0.0500
+5. 2024-07-19 - Score: 0.0500
+
+FRAUD INDICATOR BREAKDOWN:
+autoencoder_is_anomaly: 0 instances (0.0%)
+unusual_return: 0 instances (0.0%)
+unusual_volume: 0 instances (0.0%)
+price_volume_divergence: 5 instances (12.2%)
+pump_and_dump: 7 instances (17.1%)
+isolation_forest_anomaly: 2 instances (4.9%)
+knn_anomaly: 1 instances (2.4%)
+
+ANALYSIS CONCLUSION:
+LOW RISK: Minimal anomalous activity detected
+This stock shows normal market behavior with few or no indicators of potential fraud.

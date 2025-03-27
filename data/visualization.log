@@ -1,0 +1,13 @@
+2025-03-26 16:07:41,276 - __main__ - INFO - Loading processed data for NABIL
+2025-03-26 16:07:41,292 - __main__ - INFO - Plotting stock price history for NABIL
+2025-03-26 16:07:42,732 - __main__ - INFO - Saved price history plot to models/plots/NABIL_price_history.png
+2025-03-26 16:07:42,732 - __main__ - INFO - Loading processed data for NABIL
+2025-03-26 16:07:42,755 - __main__ - INFO - Plotting technical indicators for NABIL
+2025-03-26 16:07:46,224 - __main__ - INFO - Saved technical indicators plot to models/plots/NABIL_technical_indicators.png
+2025-03-26 16:07:46,225 - __main__ - INFO - Loading processed data for NABIL
+2025-03-26 16:07:46,235 - __main__ - INFO - Plotting correlation matrix for NABIL
+2025-03-26 16:07:46,893 - __main__ - INFO - Saved correlation matrix plot to models/plots/NABIL_correlation_matrix.png
+2025-03-26 16:07:47,019 - __main__ - INFO - Loading processed data for NABIL
+2025-03-26 16:07:47,029 - __main__ - INFO - Creating interactive candlestick chart for NABIL
+2025-03-26 16:07:47,433 - __main__ - INFO - Saved interactive chart to models/plots/NABIL_interactive_chart.html
+2025-03-26 16:07:47,433 - __main__ - INFO - Visualizations for NABIL completed

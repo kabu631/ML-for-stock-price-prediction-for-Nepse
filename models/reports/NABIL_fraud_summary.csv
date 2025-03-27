@@ -1,0 +1,2 @@
+symbol,analysis_date,total_days_analyzed,anomaly_days,average_anomaly_score,autoencoder_is_anomaly_count,unusual_return_count,unusual_volume_count,price_volume_divergence_count,pump_and_dump_count,isolation_forest_anomaly_count,knn_anomaly_count,top_anomaly_1_date,top_anomaly_1_score,top_anomaly_2_date,top_anomaly_2_score,top_anomaly_3_date,top_anomaly_3_score,top_anomaly_4_date,top_anomaly_4_score,top_anomaly_5_date,top_anomaly_5_score
+NABIL,2025-03-26,41,0,0.029268292682926828,0,0,0,5,7,2,1,2024-08-05,0.25,2024-08-13,0.2,2024-08-01,0.2,2024-07-05,0.05,2024-07-19,0.05

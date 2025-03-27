@@ -1,0 +1,36 @@
+2025-03-26 15:58:05,201 - __main__ - INFO - Starting NEPSE data collection
+2025-03-26 15:58:05,202 - __main__ - INFO - Fetching company list from NEPSE
+2025-03-26 15:58:05,264 - __main__ - ERROR - Error fetching company list: HTTPSConnectionPool(host='www.nepalstock.com', port=443): Max retries exceeded with url: /api/nots/company (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-03-26 15:58:05,265 - __main__ - INFO - Fetching market summary
+2025-03-26 15:58:05,282 - __main__ - ERROR - Error fetching market summary: HTTPSConnectionPool(host='www.nepalstock.com', port=443): Max retries exceeded with url: /api/nots/market-data (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
+2025-03-26 15:58:05,282 - __main__ - INFO - Data collection completed
+2025-03-26 15:58:44,460 - __main__ - INFO - Starting NEPSE data collection
+2025-03-26 15:58:44,460 - __main__ - INFO - Fetching company list from NEPSE
+2025-03-26 15:58:44,460 - __main__ - INFO - Using simulated company data for demo
+2025-03-26 15:58:44,466 - __main__ - INFO - Saved 10 companies to data/raw/nepse_companies.csv
+2025-03-26 15:58:44,466 - __main__ - INFO - Found 10 companies
+2025-03-26 15:58:44,468 - __main__ - INFO - Fetching market summary
+2025-03-26 15:58:44,468 - __main__ - INFO - Using simulated market data for demo
+2025-03-26 15:58:44,469 - __main__ - INFO - Saved market summary to data/raw/market_summary.json
+2025-03-26 15:58:44,469 - __main__ - INFO - Market summary collected successfully
+2025-03-26 15:58:44,470 - __main__ - INFO - Fetching historical data for ADBL from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,499 - __main__ - INFO - Saved historical data for ADBL to data/raw/ADBL_historical.csv
+2025-03-26 15:58:44,500 - __main__ - INFO - Fetching historical data for NABIL from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,526 - __main__ - INFO - Saved historical data for NABIL to data/raw/NABIL_historical.csv
+2025-03-26 15:58:44,526 - __main__ - INFO - Fetching historical data for NICA from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,551 - __main__ - INFO - Saved historical data for NICA to data/raw/NICA_historical.csv
+2025-03-26 15:58:44,553 - __main__ - INFO - Fetching historical data for NRIC from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,577 - __main__ - INFO - Saved historical data for NRIC to data/raw/NRIC_historical.csv
+2025-03-26 15:58:44,578 - __main__ - INFO - Fetching historical data for NTC from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,605 - __main__ - INFO - Saved historical data for NTC to data/raw/NTC_historical.csv
+2025-03-26 15:58:44,606 - __main__ - INFO - Fetching historical data for NEPSE from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,634 - __main__ - INFO - Saved historical data for NEPSE to data/raw/NEPSE_historical.csv
+2025-03-26 15:58:44,635 - __main__ - INFO - Fetching historical data for NICL from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,658 - __main__ - INFO - Saved historical data for NICL to data/raw/NICL_historical.csv
+2025-03-26 15:58:44,658 - __main__ - INFO - Fetching historical data for PRVU from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,683 - __main__ - INFO - Saved historical data for PRVU to data/raw/PRVU_historical.csv
+2025-03-26 15:58:44,684 - __main__ - INFO - Fetching historical data for PCBL from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,709 - __main__ - INFO - Saved historical data for PCBL to data/raw/PCBL_historical.csv
+2025-03-26 15:58:44,710 - __main__ - INFO - Fetching historical data for SCB from 2024-03-26 to 2025-03-26
+2025-03-26 15:58:44,735 - __main__ - INFO - Saved historical data for SCB to data/raw/SCB_historical.csv
+2025-03-26 15:58:44,736 - __main__ - INFO - Data collection completed

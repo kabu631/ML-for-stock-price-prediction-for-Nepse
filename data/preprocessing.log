@@ -1,0 +1,236 @@
+2025-03-26 16:00:59,897 - __main__ - INFO - Starting data preprocessing
+2025-03-26 16:00:59,898 - __main__ - INFO - Processing ADBL
+2025-03-26 16:00:59,899 - __main__ - INFO - Processing stock: ADBL
+2025-03-26 16:00:59,900 - __main__ - INFO - Loading data for ADBL
+2025-03-26 16:00:59,913 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:00:59,959 - __main__ - INFO - Saved processed data to data/processed/ADBL_processed.csv
+2025-03-26 16:00:59,961 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:00:59,972 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:00:59,975 - __main__ - INFO - Successfully processed ADBL
+2025-03-26 16:00:59,976 - __main__ - INFO - Processing NTC
+2025-03-26 16:00:59,976 - __main__ - INFO - Processing stock: NTC
+2025-03-26 16:00:59,977 - __main__ - INFO - Loading data for NTC
+2025-03-26 16:00:59,982 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:01:00,032 - __main__ - INFO - Saved processed data to data/processed/NTC_processed.csv
+2025-03-26 16:01:00,033 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:01:00,043 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:01:00,046 - __main__ - INFO - Successfully processed NTC
+2025-03-26 16:01:00,047 - __main__ - INFO - Processing NEPSE
+2025-03-26 16:01:00,047 - __main__ - INFO - Processing stock: NEPSE
+2025-03-26 16:01:00,047 - __main__ - INFO - Loading data for NEPSE
+2025-03-26 16:01:00,053 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:01:00,095 - __main__ - INFO - Saved processed data to data/processed/NEPSE_processed.csv
+2025-03-26 16:01:00,096 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:01:00,105 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:01:00,109 - __main__ - INFO - Successfully processed NEPSE
+2025-03-26 16:01:00,109 - __main__ - INFO - Processing NICA
+2025-03-26 16:01:00,109 - __main__ - INFO - Processing stock: NICA
+2025-03-26 16:01:00,110 - __main__ - INFO - Loading data for NICA
+2025-03-26 16:01:00,116 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:01:00,158 - __main__ - INFO - Saved processed data to data/processed/NICA_processed.csv
+2025-03-26 16:01:00,160 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:01:00,172 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:01:00,178 - __main__ - INFO - Successfully processed NICA
+2025-03-26 16:01:00,179 - __main__ - INFO - Processing NICL
+2025-03-26 16:01:00,179 - __main__ - INFO - Processing stock: NICL
+2025-03-26 16:01:00,179 - __main__ - INFO - Loading data for NICL
+2025-03-26 16:01:00,192 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:01:00,300 - __main__ - INFO - Saved processed data to data/processed/NICL_processed.csv
+2025-03-26 16:01:00,302 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:01:00,311 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:01:00,315 - __main__ - INFO - Successfully processed NICL
+2025-03-26 16:01:00,316 - __main__ - INFO - Processing PCBL
+2025-03-26 16:01:00,316 - __main__ - INFO - Processing stock: PCBL
+2025-03-26 16:01:00,316 - __main__ - INFO - Loading data for PCBL
+2025-03-26 16:01:00,323 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:01:00,384 - __main__ - INFO - Saved processed data to data/processed/PCBL_processed.csv
+2025-03-26 16:01:00,387 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:01:00,395 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:01:00,401 - __main__ - INFO - Successfully processed PCBL
+2025-03-26 16:01:00,402 - __main__ - INFO - Processing SCB
+2025-03-26 16:01:00,402 - __main__ - INFO - Processing stock: SCB
+2025-03-26 16:01:00,402 - __main__ - INFO - Loading data for SCB
+2025-03-26 16:01:00,410 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:01:00,457 - __main__ - INFO - Saved processed data to data/processed/SCB_processed.csv
+2025-03-26 16:01:00,458 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:01:00,467 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:01:00,471 - __main__ - INFO - Successfully processed SCB
+2025-03-26 16:01:00,472 - __main__ - INFO - Processing NRIC
+2025-03-26 16:01:00,472 - __main__ - INFO - Processing stock: NRIC
+2025-03-26 16:01:00,473 - __main__ - INFO - Loading data for NRIC
+2025-03-26 16:01:00,479 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:01:00,538 - __main__ - INFO - Saved processed data to data/processed/NRIC_processed.csv
+2025-03-26 16:01:00,539 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:01:00,548 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:01:00,553 - __main__ - INFO - Successfully processed NRIC
+2025-03-26 16:01:00,554 - __main__ - INFO - Processing NABIL
+2025-03-26 16:01:00,554 - __main__ - INFO - Processing stock: NABIL
+2025-03-26 16:01:00,554 - __main__ - INFO - Loading data for NABIL
+2025-03-26 16:01:00,559 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:01:00,657 - __main__ - INFO - Saved processed data to data/processed/NABIL_processed.csv
+2025-03-26 16:01:00,659 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:01:00,771 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:01:00,774 - __main__ - INFO - Successfully processed NABIL
+2025-03-26 16:01:00,774 - __main__ - INFO - Processing PRVU
+2025-03-26 16:01:00,774 - __main__ - INFO - Processing stock: PRVU
+2025-03-26 16:01:00,774 - __main__ - INFO - Loading data for PRVU
+2025-03-26 16:01:00,781 - __main__ - INFO - Adding technical indicators
+2025-03-26 16:01:00,838 - __main__ - INFO - Saved processed data to data/processed/PRVU_processed.csv
+2025-03-26 16:01:00,839 - __main__ - INFO - Creating sequences with length 60
+2025-03-26 16:01:00,847 - __main__ - INFO - Splitting data with train ratio 0.8
+2025-03-26 16:01:00,851 - __main__ - INFO - Successfully processed PRVU
+2025-03-26 16:01:00,852 - __main__ - INFO - Data preprocessing completed
+2025-03-26 16:04:08,666 - matplotlib.font_manager - WARNING - Matplotlib is building the font cache; this may take a moment.
+2025-03-26 16:04:19,409 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/LastResort.otf: tuple indices must be integers or slices, not str
+2025-03-26 16:04:19,515 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Apple Color Emoji.ttc: Could not set the fontsize (invalid pixel size; error code 0x17)
+2025-03-26 16:04:19,883 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Supplemental/NISC18030.ttf: Could not set the fontsize (invalid pixel size; error code 0x17)
+2025-03-26 16:04:20,087 - matplotlib.font_manager - INFO - generated new fontManager
+2025-03-26 16:04:22,124 - __main__ - INFO - Training models for symbols: ['NABIL']
+2025-03-26 16:04:22,124 - __main__ - INFO - Training bidirectional LSTM model for NABIL
+2025-03-26 16:04:22,428 - models - INFO - Bidirectional LSTM model built
+2025-03-26 16:04:22,429 - models - INFO - Training model with 10 epochs and batch size 32
+2025-03-26 16:04:32,643 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:04:33,618 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:04:37,514 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:04:37,559 - models - INFO - Model saved to models/NABIL_bidirectional_lstm.h5
+2025-03-26 16:04:37,559 - models - INFO - Evaluating model on test data
+2025-03-26 16:04:37,764 - models - INFO - Test loss: 0.08474961668252945
+2025-03-26 16:04:41,092 - __main__ - INFO - Training history plot saved to models/plots/NABIL_bidirectional_lstm_training_history.png
+2025-03-26 16:04:41,093 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:04:44,006 - __main__ - INFO - Predictions plot saved to models/plots/NABIL_bidirectional_predictions.png
+2025-03-26 16:04:44,006 - __main__ - INFO - Model training completed
+2025-03-26 16:05:13,351 - models - INFO - Loading model from models/NABIL_bidirectional_lstm.h5
+2025-03-26 16:05:13,655 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-03-26 16:05:13,676 - preprocessing - INFO - Loading data for NABIL
+2025-03-26 16:05:13,739 - preprocessing - INFO - Adding technical indicators
+2025-03-26 16:05:13,784 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:15,076 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:15,224 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:15,364 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:15,515 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:15,649 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:15,783 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:15,919 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:16,057 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:16,183 - models - INFO - Making predictions with NABIL_bidirectional_lstm
+2025-03-26 16:05:16,828 - __main__ - INFO - Future predictions plot saved to models/plots/NABIL_bidirectional_future_predictions.png
+2025-03-26 16:05:16,830 - __main__ - INFO - Future price predictions for NABIL (next 10 days):
+2025-03-26 16:05:16,830 - __main__ - INFO -   2025-03-26: 147.11
+2025-03-26 16:05:16,831 - __main__ - INFO -   2025-03-27: 147.61
+2025-03-26 16:05:16,831 - __main__ - INFO -   2025-03-28: 149.16
+2025-03-26 16:05:16,831 - __main__ - INFO -   2025-03-29: 149.42
+2025-03-26 16:05:16,831 - __main__ - INFO -   2025-03-30: 151.21
+2025-03-26 16:05:16,831 - __main__ - INFO -   2025-03-31: 151.22
+2025-03-26 16:05:16,831 - __main__ - INFO -   2025-04-01: 151.67
+2025-03-26 16:05:16,831 - __main__ - INFO -   2025-04-02: 152.14
+2025-03-26 16:05:16,831 - __main__ - INFO -   2025-04-03: 153.15
+2025-03-26 16:05:16,831 - __main__ - INFO -   2025-04-04: 153.34
+2025-03-26 16:05:35,606 - __main__ - INFO - Training models for symbols: ['NABIL']
+2025-03-26 16:05:35,607 - __main__ - INFO - Training advanced LSTM model for NABIL
+2025-03-26 16:05:35,850 - models - INFO - Advanced LSTM model built
+2025-03-26 16:05:35,851 - models - INFO - Training model with 5 epochs and batch size 32
+2025-03-26 16:05:45,925 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:46,375 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:46,925 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:48,176 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:48,237 - models - INFO - Model saved to models/NABIL_advanced_lstm.h5
+2025-03-26 16:05:48,239 - models - INFO - Evaluating model on test data
+2025-03-26 16:05:48,451 - models - INFO - Test loss: 0.08654868602752686
+2025-03-26 16:05:49,302 - __main__ - INFO - Training history plot saved to models/plots/NABIL_advanced_lstm_training_history.png
+2025-03-26 16:05:49,303 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:05:51,417 - __main__ - INFO - Predictions plot saved to models/plots/NABIL_advanced_predictions.png
+2025-03-26 16:05:51,417 - __main__ - INFO - Training fraud detection model for NABIL
+2025-03-26 16:05:51,544 - models - INFO - Autoencoder model for fraud detection built
+2025-03-26 16:05:51,545 - models - INFO - Training fraud detection model with 5 epochs and batch size 32
+2025-03-26 16:05:57,681 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:58,267 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:58,614 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:59,035 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:59,396 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:59,468 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-26 16:05:59,508 - models - INFO - Fraud detection model saved to models/NABIL_fraud_detection.h5
+2025-03-26 16:06:01,251 - models - INFO - Anomaly threshold set to 0.09393077131845956 and saved to models/NABIL_fraud_detection_threshold.npy
+2025-03-26 16:06:01,783 - __main__ - INFO - Training history plot saved to models/plots/NABIL_fraud_detection_training_history.png
+2025-03-26 16:06:01,784 - models - INFO - Detecting anomalies
+2025-03-26 16:06:02,307 - __main__ - INFO - Anomaly detection plot saved to models/plots/NABIL_anomalies.png
+2025-03-26 16:06:02,308 - __main__ - INFO - Model training completed
+2025-03-26 16:06:26,658 - models - INFO - Loading model from models/NABIL_advanced_lstm.h5
+2025-03-26 16:06:26,975 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-03-26 16:06:26,995 - preprocessing - INFO - Loading data for NABIL
+2025-03-26 16:06:27,010 - preprocessing - INFO - Adding technical indicators
+2025-03-26 16:06:27,046 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:28,086 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:28,214 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:28,334 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:28,492 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:28,623 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:28,759 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:28,910 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:29,039 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:29,182 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:06:29,849 - __main__ - INFO - Future predictions plot saved to models/plots/NABIL_advanced_future_predictions.png
+2025-03-26 16:06:29,849 - __main__ - INFO - Future price predictions for NABIL (next 10 days):
+2025-03-26 16:06:29,849 - __main__ - INFO -   2025-03-26: 148.53
+2025-03-26 16:06:29,850 - __main__ - INFO -   2025-03-27: 149.06
+2025-03-26 16:06:29,850 - __main__ - INFO -   2025-03-28: 149.86
+2025-03-26 16:06:29,850 - __main__ - INFO -   2025-03-29: 150.19
+2025-03-26 16:06:29,850 - __main__ - INFO -   2025-03-30: 150.63
+2025-03-26 16:06:29,850 - __main__ - INFO -   2025-03-31: 150.55
+2025-03-26 16:06:29,850 - __main__ - INFO -   2025-04-01: 150.86
+2025-03-26 16:06:29,851 - __main__ - INFO -   2025-04-02: 150.69
+2025-03-26 16:06:29,851 - __main__ - INFO -   2025-04-03: 151.69
+2025-03-26 16:06:29,851 - __main__ - INFO -   2025-04-04: 152.21
+2025-03-26 16:06:29,852 - models - INFO - Loading fraud detection model from models/NABIL_fraud_detection.h5
+2025-03-26 16:07:11,393 - models - INFO - Loading model from models/NABIL_advanced_lstm.h5
+2025-03-26 16:07:11,727 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-03-26 16:07:11,738 - preprocessing - INFO - Loading data for NABIL
+2025-03-26 16:07:11,753 - preprocessing - INFO - Adding technical indicators
+2025-03-26 16:07:11,788 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:12,787 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:12,930 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:13,081 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:13,212 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:13,344 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:13,476 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:13,624 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:13,776 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:13,908 - models - INFO - Making predictions with NABIL_advanced_lstm
+2025-03-26 16:07:14,705 - __main__ - INFO - Future predictions plot saved to models/plots/NABIL_advanced_future_predictions.png
+2025-03-26 16:07:14,706 - __main__ - INFO - Future price predictions for NABIL (next 10 days):
+2025-03-26 16:07:14,707 - __main__ - INFO -   2025-03-26: 148.53
+2025-03-26 16:07:14,714 - __main__ - INFO -   2025-03-27: 149.06
+2025-03-26 16:07:14,714 - __main__ - INFO -   2025-03-28: 149.86
+2025-03-26 16:07:14,715 - __main__ - INFO -   2025-03-29: 150.19
+2025-03-26 16:07:14,717 - __main__ - INFO -   2025-03-30: 150.63
+2025-03-26 16:07:14,721 - __main__ - INFO -   2025-03-31: 150.55
+2025-03-26 16:07:14,722 - __main__ - INFO -   2025-04-01: 150.86
+2025-03-26 16:07:14,722 - __main__ - INFO -   2025-04-02: 150.69
+2025-03-26 16:07:14,723 - __main__ - INFO -   2025-04-03: 151.69
+2025-03-26 16:07:14,724 - __main__ - INFO -   2025-04-04: 152.21
+2025-03-26 16:07:14,726 - models - INFO - Loading fraud detection model from models/NABIL_fraud_detection.h5
+2025-03-26 16:07:14,973 - models - WARNING - Standard loading failed, trying custom loading: Could not locate function 'mse'. Make sure custom classes are decorated with `@keras.saving.register_keras_serializable()`. Full object config: {'module': 'keras.metrics', 'class_name': 'function', 'config': 'mse', 'registered_name': 'mse'}
+2025-03-26 16:07:15,100 - models - INFO - Autoencoder model for fraud detection built
+2025-03-26 16:07:15,119 - models - INFO - Loaded anomaly threshold: 0.09393077131845956
+2025-03-26 16:07:15,120 - models - INFO - Detecting anomalies
+2025-03-26 16:07:15,728 - __main__ - INFO - Anomaly detection for NABIL: score=0.07609802356518436, threshold=0.09393077131845956, is_anomaly=False
+2025-03-26 16:07:15,728 - __main__ - INFO - No fraud detected for NABIL. Anomaly score: 0.0761
+2025-03-26 16:09:14,375 - __main__ - INFO - Running fraud detection for symbols: ['NABIL']
+2025-03-26 16:09:14,375 - __main__ - INFO - Analyzing NABIL
+2025-03-26 16:09:14,376 - __main__ - INFO - Starting comprehensive fraud analysis for NABIL
+2025-03-26 16:09:14,376 - __main__ - INFO - Running autoencoder anomaly detection for NABIL
+2025-03-26 16:09:14,377 - __main__ - INFO - Loading processed data for NABIL
+2025-03-26 16:09:14,394 - models - INFO - Loading fraud detection model from models/NABIL_fraud_detection.h5
+2025-03-26 16:09:14,930 - models - WARNING - Standard loading failed, trying custom loading: Could not locate function 'mse'. Make sure custom classes are decorated with `@keras.saving.register_keras_serializable()`. Full object config: {'module': 'keras.metrics', 'class_name': 'function', 'config': 'mse', 'registered_name': 'mse'}
+2025-03-26 16:09:15,016 - models - INFO - Autoencoder model for fraud detection built
+2025-03-26 16:09:15,032 - models - INFO - Loaded anomaly threshold: 0.09393077131845956
+2025-03-26 16:09:15,033 - models - INFO - Detecting anomalies
+2025-03-26 16:09:16,336 - __main__ - INFO - Detecting price manipulation patterns
+2025-03-26 16:09:16,348 - __main__ - INFO - Detecting statistical anomalies
+2025-03-26 16:09:16,973 - __main__ - INFO - Calculating combined anomaly score
+2025-03-26 16:09:16,981 - __main__ - INFO - Generating anomaly visualizations for NABIL
+2025-03-26 16:09:18,119 - __main__ - INFO - Saved fraud analysis plot to models/plots/NABIL_fraud_analysis.png
+2025-03-26 16:09:18,491 - __main__ - INFO - Saved fraud indicator correlation plot to models/plots/NABIL_fraud_indicator_correlation.png
+2025-03-26 16:09:18,521 - __main__ - INFO - Saved detailed fraud analysis to models/reports/NABIL_fraud_analysis.csv
+2025-03-26 16:09:18,531 - __main__ - INFO - Saved fraud analysis summary to models/reports/NABIL_fraud_summary.csv
+2025-03-26 16:09:18,532 - __main__ - INFO - Analysis complete for NABIL. Found 0 significant anomalies.
+2025-03-26 16:09:18,532 - __main__ - INFO - Fraud detection completed
